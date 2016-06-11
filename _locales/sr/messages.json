@@ -16,7 +16,7 @@
 	},
 	"manifest_command_preset" : 
 	{
-		"message" : "Zoom to a value set on the extension settings page",
+		"message" : "Зумирај на вредност постављену на страници подешавања проширења",
 		"description" : "Manifest JSON preset value command string"
 	},
 	"notification_install_title" : 
@@ -46,7 +46,7 @@
 	},
 	"context_menu_custom" :
 	{
-		"message" : "Zoom to custom value",
+		"message" : "Зумирај на прилагођену вредност",
 		"description" : "Context menu strings"
 	},
 	"settings_sidebar_menuitem_settings" : 
@@ -71,32 +71,32 @@
 	},
 	"settings_sidebar_menuitem_contribute" : 
 	{
-		"message" : "Contribute",
+		"message" : "Допринос",
 		"description" : "Sidebar menu"
 	},
 	"settings_content_pref_header" : 
 	{
-		"message" : "Preferences",
+		"message" : "Опције",
 		"description" : "Preferences header"
 	},
 	"settings_content_pref_uiColor" : 
 	{
-		"message" : "Interface main color:",
+		"message" : "Главна боја окружења:",
 		"description" : "Prefenreces body"
 	},
 	"settings_content_pref_uiBlue" : 
 	{
-		"message" : "Blue",
+		"message" : "Плава",
 		"description" : "Prefenreces body"
 	},
 	"settings_content_pref_uiRed" : 
 	{
-		"message" : "Red",
+		"message" : "Црвена",
 		"description" : "Prefenreces body"
 	},
 	"settings_content_pref_presetValue" : 
 	{
-		"message" : "Custom zoom value (%):",
+		"message" : "Прилагођена вредност зумирања (%):",
 		"description" : "Prefenreces body"
 	},
 	"settings_content_shortcut_header" : 
@@ -106,12 +106,12 @@
 	},
 	"settings_content_shortcut_popup" : 
 	{
-		"message" : "Alt+Shift+Z is the default shortcut to open the toolbar popup. (Esc is the default shortcut to close it.)",
+		"message" : "Alt+Shift+Z је подразумевана пречица за отварање искачућег прозора са траке алата. (Esc је подразумевана пречица за затварање.)",
 		"description" : "Shortcuts body"
 	},
 	"settings_content_shortcut_preset" : 
 	{
-		"message" : "Alt+Shift+T is the default shortcut to zoom to the custom value.",
+		"message" : "Alt+Shift+T је подразумевана пречица за зумирање на прилагођену вредност.",
 		"description" : "Shortcuts body"
 	},
 	"settings_content_shortcut_manager" : 
@@ -171,7 +171,7 @@
 	},
 	"settings_content_howToUse_default" : 
 	{
-		"message" : "You can use the context menu of the toolbar button to reset zoom to default.",
+		"message" : "Можете користити контекстни мени дугмета на траци алата за враћање зумирања на подразумевано.",
 		"description" : "How to use body"
 	},
 	"settings_content_notes_header" : 
@@ -206,7 +206,7 @@
 	},
 	"settings_content_permissions_storage" : 
 	{
-		"message" : "\"storage\" to save your settings.",
+		"message" : "\"storage\" за снимање ваших подешавања.",
 		"description" : "Permissions body"
 	},
 	"settings_content_permissions_tabs" : 
@@ -226,7 +226,7 @@
 	},
 	"settings_content_credits_thanks" : 
 	{
-		"message" : "Хвала свим сарадницима! (Види детаље у изменама!)",
+		"message" : "Хвала свим сарадницима! (Видети детаље у изменама!)",
 		"description" : "Credits body"
 	},
 	"settings_content_warning_header" : 
@@ -246,12 +246,12 @@
 	},
 	"settings_content_license_share" : 
 	{
-		"message" : "You can only share this extension for free.",
+		"message" : "Можете делити ово проширење само бесплатно.",
 		"description" : "License body"
 	},
 	"settings_content_license_copy" : 
 	{
-		"message" : "You can use the source code with the proper reference to the original author.",
+		"message" : "Можете користити изворни код са прописним упућивањем на оригиналног аутора.",
 		"description" : "License body"
 	},
 	"settings_content_contact_header" : 
@@ -276,12 +276,12 @@
 	},
 	"settings_content_donate_header" : 
 	{
-		"message" : "Donate",
+		"message" : "Донације",
 		"description" : "Donate header"
 	},
 	"settings_content_donate_text" : 
 	{
-		"message" : "This extension is completely free to use. However, if you want to contribute with a small amount of money, you can click on the image below to donate via PayPal. (You can use either a PayPal account or a credit card.)",
+		"message" : "Ово проширење је потпуно бесплатно за коришћење. Ипак, ако желите да допринесете малим новчаним износом, можете кликнути на слику испод за донирање преко PayPal сервиса. (Можете да употребите PayPal налог или кредитну картицу.)",
 		"description" : "Donate body"
 	}
 }
